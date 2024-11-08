@@ -14,6 +14,7 @@ Rootstack
 RuralHack
 KeepCoding
 Los lenguajes de programación son extraídos de cada página, prestando atención a las posiciones de los lenguajes en las listas de cada sitio.
+<br>
 Asignación de Puntajes:
 
 Cada lenguaje extraído recibe una puntuación en función de su posición en la lista (1º lugar = 5 puntos, 2º lugar = 4 puntos, etc.).
