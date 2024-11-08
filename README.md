@@ -9,10 +9,10 @@ Los resultados se procesan y se guardan en un archivo Excel, donde se pueden vis
 <b><h2 align="center">Funcionalidades</h2></b>
 <p>Extracción de Datos (Web Scraping):
 
-Se realiza scraping en tres sitios web relacionados con los lenguajes de programación más populares en 2024:
-Rootstack
-RuralHack
-KeepCoding
+Se realiza scraping en tres sitios web relacionados con los lenguajes de programación más populares en 2024:<br>
+Rootstack <br>
+RuralHack <br>
+KeepCoding <br>
 Los lenguajes de programación son extraídos de cada página, prestando atención a las posiciones de los lenguajes en las listas de cada sitio.
 <br>
 Asignación de Puntajes:
