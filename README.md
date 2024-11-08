@@ -7,7 +7,7 @@ Utilizando técnicas de web scraping y procesamiento de datos con bibliotecas de
 Los resultados se procesan y se guardan en un archivo Excel, donde se pueden visualizar tanto las posiciones individuales de los lenguajes en cada página como un análisis general con puntuaciones y porcentajes de popularidad.</p>
 
 <b><h2 align="center">Funcionalidades</h2></b>
-Extracción de Datos (Web Scraping):
+<p>Extracción de Datos (Web Scraping):
 
 Se realiza scraping en tres sitios web relacionados con los lenguajes de programación más populares en 2024:
 Rootstack
@@ -29,7 +29,7 @@ Las posiciones, puntajes acumulados y porcentajes de cada lenguaje.
 Ajuste de Formato en Excel:
 
 El archivo Excel resultante es ajustado para que las columnas tengan un tamaño adecuado, mejorando la legibilidad.
-Ejecución
+Ejecución</p>
 Para ejecutar el proyecto, sigue estos pasos:
 
 Instalar las dependencias necesarias: Asegúrate de tener instaladas las siguientes bibliotecas de Python:
