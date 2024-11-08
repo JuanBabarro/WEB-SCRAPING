@@ -62,10 +62,10 @@ El archivo Excel tiene un formato ajustado para facilitar la lectura de los dato
 
 
 <b><h2 align="center">Conclusión</h2></b>
-Lenguaje	Puntos	Porcentaje	Posición
-Python	14	31.11%	1°
-JavaScript	13	28.89%	2°
-Java	9	20.00%	3°
-C++	4	8.89%	4°
-C#	3	6.67%	5°
-C	2	4.44%	6°
+<p>Según los datos presentados, podemos determinar el ranking de los lenguajes de programación más utilizados y sus respectivas puntuaciones y porcentajes:
+- Python: Con un total de 14 puntos y un porcentaje del 31.11%, Python se posiciona como el lenguaje de programación más utilizado en este conjunto de datos. Su amplia presencia en las tres "páginas" analizadas indica una fuerte demanda y popularidad.
+- JavaScript: Le sigue muy de cerca JavaScript, con 13 puntos y un 28.89% del total. Su dominio en el desarrollo web lo consolida como un lenguaje fundamental en la industria.
+- Java: En el tercer lugar encontramos a Java, con 9 puntos y un 20.00%. Su versatilidad y uso en diversas aplicaciones lo mantienen como una opción sólida para muchos desarrolladores.
+- C++: C++ ocupa el cuarto lugar, con 4 puntos y un 8.89%. Su eficiencia y uso en aplicaciones de alto rendimiento lo hacen relevante en ciertos ámbitos.
+- C#: C# se ubica en el quinto lugar, con 3 puntos y un 6.67%. Su estrecha relación con Microsoft y su uso en el desarrollo de aplicaciones .NET lo posicionan como una opción popular en ese ecosistema.
+- C: Por último, C obtiene 2 puntos y un 4.44%. A pesar de ser un lenguaje más antiguo, sigue siendo utilizado en sistemas embebidos y aplicaciones donde se requiere un alto nivel de control.</p>
