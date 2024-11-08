@@ -33,24 +33,23 @@ El archivo Excel resultante es ajustado para que las columnas tengan un tamaño 
 
 <b><h2 align="center">Ejecución</h2></b>
 
-Ejecuta el archivo de Python que contiene el código.
+<p> Ejecuta el archivo de Python que contiene el código.
 El script realizará las siguientes acciones:
 Realizará solicitudes HTTP a las páginas web especificadas.
 Extraerá los lenguajes de programación más mencionados en cada página.
 Asignará puntajes a los lenguajes según su posición.
 Calculará los porcentajes de popularidad.
 Guardará los resultados en un archivo Excel en la ubicación especificada (C:/Users/JuanC/Desktop/LenguajesMasUtilizados.xlsx).
-Revisar el archivo Excel:
-
+- Excel:
 Una vez ejecutado el script, abre el archivo LenguajesMasUtilizados.xlsx para ver los resultados.
 En el archivo Excel, encontrarás:
 Las listas de lenguajes extraídas de cada una de las tres páginas web.
-Un resumen con las posiciones, los puntos acumulados y los porcentajes de cada lenguaje.
+Un resumen con las posiciones, los puntos acumulados y los porcentajes de cada lenguaje.</p>
 
 <b><h2 align="center">Salida</h2></b>
 Al finalizar la ejecución del script, se genera un archivo Excel llamado LenguajesMasUtilizados.xlsx en la ubicación especificada. Este archivo contiene los siguientes datos:
 
-Columnas de las Páginas Web:
+- Columnas de las Páginas Web:
 
 Las listas de los lenguajes de programación más mencionados en las tres páginas web analizadas.
 Columnas de Análisis:
