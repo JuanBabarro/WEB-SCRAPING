@@ -1,6 +1,10 @@
-Lenguajes de Programación Más Usados en 2024
-Descripción del Proyecto
-Este proyecto se enfoca en la recopilación y análisis de los lenguajes de programación más utilizados en 2024, basándose en información extraída de varios sitios web populares. Utilizando técnicas de web scraping y procesamiento de datos con bibliotecas de Python, el proyecto obtiene los lenguajes más mencionados en tres páginas web y les asigna una puntuación en función de su aparición. Los resultados se procesan y se guardan en un archivo Excel, donde se pueden visualizar tanto las posiciones individuales de los lenguajes en cada página como un análisis general con puntuaciones y porcentajes de popularidad.
+<b><h1 align="center">Lenguajes de Programación Más Usados en 2024</h1></b>
+
+
+<b><h2 align="center">Descripción</h2></b>
+<p>Este proyecto se enfoca en la recopilación y análisis de los lenguajes de programación más utilizados en 2024, basándose en información extraída de varios sitios web populares.
+Utilizando técnicas de web scraping y procesamiento de datos con bibliotecas de Python, el proyecto obtiene los lenguajes más mencionados en tres páginas web y les asigna una puntuación en función de su aparición.
+  Los resultados se procesan y se guardan en un archivo Excel, donde se pueden visualizar tanto las posiciones individuales de los lenguajes en cada página como un análisis general con puntuaciones y porcentajes de popularidad.</p>
 
 Funcionalidades
 Extracción de Datos (Web Scraping):
