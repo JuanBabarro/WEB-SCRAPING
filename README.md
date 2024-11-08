@@ -27,7 +27,7 @@ Una vez asignados los puntajes, se calculan los porcentajes de popularidad de ca
 Los datos obtenidos y procesados se almacenan en un archivo Excel, que incluye:
 Las listas de lenguajes extraídos de cada página web.
 Las posiciones, puntajes acumulados y porcentajes de cada lenguaje.
-Ajuste de Formato en Excel:
+- Ajuste de Formato en Excel:
 
 El archivo Excel resultante es ajustado para que las columnas tengan un tamaño adecuado, mejorando la legibilidad.
 </p>
