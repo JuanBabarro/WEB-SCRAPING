@@ -30,14 +30,8 @@ Ajuste de Formato en Excel:
 
 El archivo Excel resultante es ajustado para que las columnas tengan un tamaño adecuado, mejorando la legibilidad.
 Ejecución</p>
-Para ejecutar el proyecto, sigue estos pasos:
 
-Instalar las dependencias necesarias: Asegúrate de tener instaladas las siguientes bibliotecas de Python:
-
-bash
-Copiar código
-pip install requests beautifulsoup4 pandas openpyxl
-Ejecutar el script:
+<b><h2 align="center">Ejecutar el Script</h2></b>
 
 Ejecuta el archivo de Python que contiene el código.
 El script realizará las siguientes acciones:
