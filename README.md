@@ -29,9 +29,9 @@ Las posiciones, puntajes acumulados y porcentajes de cada lenguaje.
 Ajuste de Formato en Excel:
 
 El archivo Excel resultante es ajustado para que las columnas tengan un tamaño adecuado, mejorando la legibilidad.
-Ejecución</p>
+</p>
 
-<b><h2 align="center">Ejecutar el Script</h2></b>
+<b><h2 align="center">Ejecución</h2></b>
 
 Ejecuta el archivo de Python que contiene el código.
 El script realizará las siguientes acciones:
@@ -46,7 +46,8 @@ Una vez ejecutado el script, abre el archivo LenguajesMasUtilizados.xlsx para ve
 En el archivo Excel, encontrarás:
 Las listas de lenguajes extraídas de cada una de las tres páginas web.
 Un resumen con las posiciones, los puntos acumulados y los porcentajes de cada lenguaje.
-Salida
+
+<b><h2 align="center">Salida</h2></b>
 Al finalizar la ejecución del script, se genera un archivo Excel llamado LenguajesMasUtilizados.xlsx en la ubicación especificada. Este archivo contiene los siguientes datos:
 
 Columnas de las Páginas Web:
