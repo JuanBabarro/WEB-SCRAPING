@@ -22,7 +22,7 @@ Se combinan las puntuaciones de los tres sitios para calcular el puntaje total d
 Análisis y Cálculo de Porcentajes:
 
 Una vez asignados los puntajes, se calculan los porcentajes de popularidad de cada lenguaje con respecto al puntaje total.
-Generación de Reporte en Excel:
+- Generación de Reporte en Excel:
 
 Los datos obtenidos y procesados se almacenan en un archivo Excel, que incluye:
 Las listas de lenguajes extraídos de cada página web.
