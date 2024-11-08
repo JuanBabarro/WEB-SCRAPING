@@ -47,12 +47,14 @@ Este archivo contiene los siguientes datos:
 
 - Columnas de las Páginas Web:
 Las listas de los lenguajes de programación más mencionados en las tres páginas web analizadas.
-Columnas de Análisis:
+<b>- Columnas de Análisis:</b>
 
 - Posición:
 El nombre del lenguaje de programación ordenado por su popularidad acumulada.
-Puntos: La puntuación total de cada lenguaje basada en su posición en cada página.
-Porcentaje: El porcentaje del total de puntos que representa cada lenguaje.
+
+- Puntos: La puntuación total de cada lenguaje basada en su posición en cada página.
+
+- Porcentaje: El porcentaje del total de puntos que representa cada lenguaje.
 
 - Formato Excel:
 El archivo Excel tiene un formato ajustado para facilitar la lectura de los datos, con el ancho de las columnas optimizado.</p>
