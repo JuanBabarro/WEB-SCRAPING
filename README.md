@@ -42,16 +42,17 @@ Calculará los porcentajes de popularidad.
 Guardará los resultados en un archivo Excel en la ubicación especificada (C:/Users/JuanC/Desktop/LenguajesMasUtilizados.xlsx).</p>
 
 <b><h2 align="center">Salida</h2></b>
-Al finalizar la ejecución del script, se genera un archivo Excel llamado LenguajesMasUtilizados.xlsx en la ubicación especificada. Este archivo contiene los siguientes datos:
+<p>Al finalizar la ejecución del script, se genera un archivo Excel llamado LenguajesMasUtilizados.xlsx en la ubicación especificada. 
+Este archivo contiene los siguientes datos:
 
 - Columnas de las Páginas Web:
-
 Las listas de los lenguajes de programación más mencionados en las tres páginas web analizadas.
 Columnas de Análisis:
 
-Posición: El nombre del lenguaje de programación ordenado por su popularidad acumulada.
+- Posición:
+El nombre del lenguaje de programación ordenado por su popularidad acumulada.
 Puntos: La puntuación total de cada lenguaje basada en su posición en cada página.
 Porcentaje: El porcentaje del total de puntos que representa cada lenguaje.
-Formato Excel:
 
-El archivo Excel tiene un formato ajustado para facilitar la lectura de los datos, con el ancho de las columnas optimizado.
+- Formato Excel:
+El archivo Excel tiene un formato ajustado para facilitar la lectura de los datos, con el ancho de las columnas optimizado.</p>
