@@ -59,3 +59,13 @@ El porcentaje del total de puntos que representa cada lenguaje.
 
 <b>- Formato Excel:</b>
 El archivo Excel tiene un formato ajustado para facilitar la lectura de los datos, con el ancho de las columnas optimizado.</p>
+
+
+<b><h2 align="center">Conclusión</h2></b>
+Lenguaje	Puntos	Porcentaje	Posición
+Python	14	31.11%	1°
+JavaScript	13	28.89%	2°
+Java	9	20.00%	3°
+C++	4	8.89%	4°
+C#	3	6.67%	5°
+C	2	4.44%	6°
