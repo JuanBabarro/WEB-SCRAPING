@@ -4,9 +4,9 @@
 <b><h2 align="center">Descripción</h2></b>
 <p>Este proyecto se enfoca en la recopilación y análisis de los lenguajes de programación más utilizados en 2024, basándose en información extraída de varios sitios web populares.
 Utilizando técnicas de web scraping y procesamiento de datos con bibliotecas de Python, el proyecto obtiene los lenguajes más mencionados en tres páginas web y les asigna una puntuación en función de su aparición.
-  Los resultados se procesan y se guardan en un archivo Excel, donde se pueden visualizar tanto las posiciones individuales de los lenguajes en cada página como un análisis general con puntuaciones y porcentajes de popularidad.</p>
+Los resultados se procesan y se guardan en un archivo Excel, donde se pueden visualizar tanto las posiciones individuales de los lenguajes en cada página como un análisis general con puntuaciones y porcentajes de popularidad.</p>
 
-Funcionalidades
+<b><h2 align="center">Funcionalidades</h2></b>
 Extracción de Datos (Web Scraping):
 
 Se realiza scraping en tres sitios web relacionados con los lenguajes de programación más populares en 2024:
